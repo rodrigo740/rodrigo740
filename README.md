@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Martins</h1>
 <h3 align="center">A passionate Computer Engineer student from Portugal</h3>
 
-Check my latest [project](http://arc2project.pt/)!
+Check out my latest [project](http://arc2project.pt/)!
 
 
 <h3 align="left">Languages and Tools:</h3>
