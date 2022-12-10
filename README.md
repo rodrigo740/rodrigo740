@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Martins</h1>
 <h3 align="center">A passionate Computer Engineer student from Portugal</h3>
 
+![](https://github.com/rodrigo740/rodrigo740/blob/main/header.png)
+
 Check out my latest [project](http://arc2project.pt/)!
 
 
