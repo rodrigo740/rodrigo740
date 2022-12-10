@@ -12,4 +12,4 @@ Check out my latest [project](http://arc2project.pt/)!
 
  <a href="https://www.linkedin.com/in/rodrigo-martins-776698215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo740&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  ![Snake animation](https://github.com/rodrigo740/rodrigo740/blob/output/github-contribution-grid-snake.svg)
